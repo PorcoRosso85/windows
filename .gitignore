@@ -1,0 +1,12 @@
+*
+!.gitignore
+!.config
+.config/*
+!.config/**
+!.local
+!.local/**
+!*ME.md
+!repos
+!repos/**
+!Sync
+!Sync/**
