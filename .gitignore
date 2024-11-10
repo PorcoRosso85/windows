@@ -1,4 +1,5 @@
 *
+!/.wslconfig*
 !.gitignore
 !.config
 .config/*
